@@ -10,6 +10,7 @@
 2. Huawei
 3. Xiaomi
 4. BYD
+5. Transsion
 
 ### Korea
 
