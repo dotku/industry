@@ -6,11 +6,16 @@
 
 ### China
 
-1. Alibaba
-2. Huawei
-3. Xiaomi
-4. BYD
-5. Transsion
+1. Tencent
+2. Haier
+3. Huawei
+4. Alibaba
+5. Lenovo
+6. Baidu
+7. TicTok
+8. Xiaomi
+9. BYD
+10. Transsion
 
 ### Korea
 
